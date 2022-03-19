@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RestorantHesap</string>
+    <array name="drinks">
+        <item>Tea</item>
+        <item>Turkish Coffee</item>
+        <item>Coffee</item>
+        <item>Coke</item>
+    </array>
+</resources>
